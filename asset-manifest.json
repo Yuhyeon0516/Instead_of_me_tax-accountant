@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Instead_of_me_tax-accountant/static/js/main.2b456105.js",
+    "static/media/business_man.png": "/Instead_of_me_tax-accountant/static/media/business_man.6bf0b02646cd49dbcbfd.png",
+    "static/media/consulting_image.jpg": "/Instead_of_me_tax-accountant/static/media/consulting_image.e15964f50022bace62d6.jpg",
+    "static/media/expert3.jpg": "/Instead_of_me_tax-accountant/static/media/expert3.64a385583066fecce707.jpg",
+    "static/media/curation.jpg": "/Instead_of_me_tax-accountant/static/media/curation.97e834378bd4c1df81a4.jpg",
+    "static/media/salary.jpg": "/Instead_of_me_tax-accountant/static/media/salary.e77e2c8ff126a9642de7.jpg",
+    "static/media/home_image.jpg": "/Instead_of_me_tax-accountant/static/media/home_image.200bf5a296039192898a.jpg",
+    "static/media/academy.jpg": "/Instead_of_me_tax-accountant/static/media/academy.c707faf5ca144fd0d700.jpg",
+    "static/media/expert2.jpg": "/Instead_of_me_tax-accountant/static/media/expert2.a564c82f590a80069f03.jpg",
+    "static/media/expert1.jpg": "/Instead_of_me_tax-accountant/static/media/expert1.39091de6a1400c8b3310.jpg",
+    "static/media/report.jpg": "/Instead_of_me_tax-accountant/static/media/report.54af8448d526e3a1863b.jpg",
+    "static/media/message_box.png": "/Instead_of_me_tax-accountant/static/media/message_box.6abfb9811e9ccffca4c6.png",
+    "static/media/44Circle.png": "/Instead_of_me_tax-accountant/static/media/44Circle.7d462e099a13f6f7fc22.png",
+    "static/media/16Circle.png": "/Instead_of_me_tax-accountant/static/media/16Circle.006a4583190ee6adb86d.png",
+    "index.html": "/Instead_of_me_tax-accountant/index.html",
+    "main.2b456105.js.map": "/Instead_of_me_tax-accountant/static/js/main.2b456105.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2b456105.js"
+  ]
+}
