@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Instead_of_me_tax-accountant/static/js/main.40f01c9c.js",
+    "main.js": "/Instead_of_me_tax-accountant/static/js/main.347f18b8.js",
     "static/media/business_man.png": "/Instead_of_me_tax-accountant/static/media/business_man.6bf0b02646cd49dbcbfd.png",
     "static/media/consulting_image.jpg": "/Instead_of_me_tax-accountant/static/media/consulting_image.e15964f50022bace62d6.jpg",
     "static/media/expert3.jpg": "/Instead_of_me_tax-accountant/static/media/expert3.64a385583066fecce707.jpg",
@@ -15,9 +15,9 @@
     "static/media/44Circle.png": "/Instead_of_me_tax-accountant/static/media/44Circle.7d462e099a13f6f7fc22.png",
     "static/media/16Circle.png": "/Instead_of_me_tax-accountant/static/media/16Circle.006a4583190ee6adb86d.png",
     "index.html": "/Instead_of_me_tax-accountant/index.html",
-    "main.40f01c9c.js.map": "/Instead_of_me_tax-accountant/static/js/main.40f01c9c.js.map"
+    "main.347f18b8.js.map": "/Instead_of_me_tax-accountant/static/js/main.347f18b8.js.map"
   },
   "entrypoints": [
-    "static/js/main.40f01c9c.js"
+    "static/js/main.347f18b8.js"
   ]
 }
